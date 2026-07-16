@@ -8,7 +8,7 @@ import (
     "github.com/gliderlabs/ssh"
 )
 
-const port = "22222"
+const port = "2222"
 
 // welcome screen
 const welcome = `
