@@ -5,7 +5,7 @@ import (
     "log"
     "net"
 
-    "github.com/gliberlabs/ssh"
+    "github.com/gliderlabs/ssh"
 )
 
 const port = "2222"
